@@ -66,3 +66,34 @@ body {
     color: #555;
   }
   
+
+/* Para tablets */
+/* @media (max-width: 768px) {
+  h1 {
+    font-size: 20px;
+  }
+
+  .user-input,
+  .check-btn {
+    font-size: 16px;
+    padding: 10px;
+  }
+} */
+
+/* Para dispositivos móviles */
+/* @media (max-width: 480px) {
+    h1 {
+      font-size: 18px;
+    }
+  
+    .user-input,
+    .check-btn {
+      font-size: 14px;
+      padding: 8px;
+    }
+  
+    .message,
+    .attempts {
+      font-size: 14px;
+    }
+  } */
