@@ -16,6 +16,7 @@ Pon a prueba tu intuición y habilidades matemáticas para descubrir el número 
 🔄 ¡Intenta adivinarlo en el menor número de intentos posible!
 👀 Captura de pantalla
 ¡Así se ve el juego en acción! 👇
+
 <img src="./play.png" alt="Captura de pantalla del juego" width="500" />
 
 ## 🛠️ Tecnologías utilizadas
