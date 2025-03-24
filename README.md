@@ -1,9 +1,10 @@
-🧠✨ Adivina el Número 🎯
-¡Bienvenido al juego de Adivina el Número! 🔢
+## 🧠✨ Adivina el Número 🎯
+
+** ¡Bienvenido al juego de Adivina el Número! ** 🔢
 Pon a prueba tu intuición y habilidades matemáticas para descubrir el número secreto entre 1 y 100.
 ¿Podrás adivinarlo con el menor número de intentos posible? 😎
 
-🚀 ¿Cómo jugar?
+## 🚀 ¿Cómo jugar?
 👉 Sigue estos pasos para empezar:
 
 💡 Introduce un número entre 1 y 100.
@@ -17,18 +18,18 @@ Pon a prueba tu intuición y habilidades matemáticas para descubrir el número 
 ¡Así se ve el juego en acción! 👇
 <img src="./play.png" alt="Captura de pantalla del juego" width="500" />
 
-🛠️ Tecnologías utilizadas
+## 🛠️ Tecnologías utilizadas
 ✅ HTML5 → Estructura del juego
 ✅ CSS3 → Estilo y diseño responsivo
 ✅ JavaScript → Lógica del juego
 
-🌟 Características
+## 🌟 Características
 ✔️ Diseño simple y elegante
 ✔️ Lógica de juego intuitiva
 ✔️ Feedback en tiempo real con pistas
 ✔️ Contador de intentos
 
-📥 Instalación
+## 📥 Instalación
 Si quieres probar el juego en tu máquina local:
 
 Clona el repositorio
