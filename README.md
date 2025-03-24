@@ -39,7 +39,7 @@ Copiar código
 git clone https://github.com/tu-usuario/adivina-el-numero.git
 Abre el archivo index.html en tu navegador favorito.
 
-o puedes entrar en este enlace y jugar bessyescobar.github.io/guess_the_number/
+o puedes entrar en este enlace y jugar https://bessyescobar.github.io/guess_the_number/
 
 🎮 ¡A jugar!
 ¿Podrás adivinar el número oculto? ¡Demuéstralo ahora! 😎
